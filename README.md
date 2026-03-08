@@ -1,4 +1,4 @@
-## Context:
+## Context
 
 I need to create a MCP Server, Client and Host which the final goal is to help update all depencies which has vulnerabilities
 
