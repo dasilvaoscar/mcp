@@ -18,4 +18,4 @@ I need to create a MCP Server, Client and Host which the final goal is to help u
   - My github Repositories
 
 - Prompts
-  - Analyse
+  - Analyze
